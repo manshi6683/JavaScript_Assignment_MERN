@@ -110,17 +110,6 @@ Example:
 node arrays.js
 ```
 
----
-
-# 📸 Project Preview
-
-```javascript
-function describeCountry(country, population, capitalCity) {
-    return country + " has " + population +
-           " million people and its capital city is " +
-           capitalCity;
-}
-```
 
 ---
 
@@ -153,8 +142,5 @@ If you like this project, give it a ⭐ on GitHub!
 
 ---
 
-<div align="center">
-
-## 🚀 Happy Coding 🚀
 
 </div>
